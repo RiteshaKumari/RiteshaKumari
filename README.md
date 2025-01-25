@@ -22,9 +22,9 @@
  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
   </a>
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" alt="restful api" width="40" height="40"/> 
-  </a>
+<a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.icons8.com/ios-filled/50/rest-api.png" alt="restful api" width="40" height="40"/> 
+</a>
   <a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="entity framework" width="40" height="40"/> 
   </a> 
