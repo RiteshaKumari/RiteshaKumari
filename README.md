@@ -31,7 +31,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riteshakumari&show_icons=true&locale=en" alt="riteshakumari" /></p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshakumari" alt="riteshakumari's streak stats" />
-</p>
-
