@@ -22,9 +22,6 @@
  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
   </a>
-<a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/ios-filled/50/rest-api.png" alt="restful api" width="40" height="40"/> 
-</a>
   <a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="entity framework" width="40" height="40"/> 
   </a> 
@@ -34,4 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riteshakumari&show_icons=true&locale=en" alt="riteshakumari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshakumari&" alt="riteshakumari" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshakumari" alt="riteshakumari's streak stats" />
+</p>
+
